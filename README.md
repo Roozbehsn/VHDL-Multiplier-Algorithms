@@ -119,20 +119,17 @@ Each folder contains synthesizable VHDL source files intended for simulation in 
 
 ## Contribute
 
-Contributions are welcome! If you'd like to improve this project:
+Contributions are welcome and greatly appreciated!
 
+Whether you'd like to fix a bug, improve documentation, optimize code, or add a new embedded systems project, your help is appreciated. you can also reach out via email at rseyednozadi@gmail.com. 
+If you'd like to improve this project:
 1. Fork the repository.
 2. Create a feature branch (`git checkout -b feature/booth-multiplier`).
 3. Make your changes (e.g. fix VHDL syntax issues, add a testbench, implement Booth's or Wallace Tree).
 4. Commit your changes with a clear message.
 5. Open a pull request describing what you changed and why.
 
-Ideas for contributions:
-- Add testbenches for the Array Multiplier and Add & Shift designs.
-- Implement Booth's Algorithm and/or Wallace Tree multipliers.
-- Clean up OCR/transcription artifacts in the existing VHDL source.
-- Add simulation waveforms or synthesis reports.
 
 ## License
 
-No license specified — treat as an academic/educational project. Add a license file if you intend to distribute this work.
+This project is licensed under the MIT License - see the LICENSE file for details.
