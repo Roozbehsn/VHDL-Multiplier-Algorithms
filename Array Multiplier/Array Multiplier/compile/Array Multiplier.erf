@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: D:/Projects/Multiplier/Array Multiplier/Array_Multiplier/Array Multiplier/src/TestBench/multiplier4bit_TB.vhd" 
+MESSAGE "Compile Entity "multiplier4bit_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "multiplier4bit_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_multiplier4bit"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]" 

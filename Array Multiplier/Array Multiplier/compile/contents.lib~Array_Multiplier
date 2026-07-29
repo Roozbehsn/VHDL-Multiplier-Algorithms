@@ -1,0 +1,6 @@
+2
+~E 1 "../src/Main.vhd" 5 multiplier4bit
+~A 1 "../src/Main.vhd" 13 Behavioral
+~E 1 "../src/TestBench/multiplier4bit_TB.vhd" 6 multiplier4bit_tb
+~A 1 "../src/TestBench/multiplier4bit_TB.vhd" 9 TB_ARCHITECTURE
+~C 1 "../src/TestBench/multiplier4bit_TB.vhd" 53 testbench_for_multiplier4bit

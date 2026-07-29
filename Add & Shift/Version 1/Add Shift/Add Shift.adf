@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Add_Shift
+[Library]
+Add_Shift=.\Add_Shift\Add_Shift.lib
+[$LibMap$]
+Add_Shift=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Main 1.vhd=-1
+/..\..\..\..\Add&Shift\Add_Shift\AddShift\src\AddShift.asdb=-1
+/..\..\..\..\Add&Shift\Add_Shift\AddShift\src\AddShift.awc=-1
+TestBench/multiplier_3x3_TB.vhd=-1
+TestBench/multiplier_3x3_TB_runtest.do=-1
+[Files.Data]
+.\src\Main 1.vhd=VHDL Source Code
+.\..\..\..\Add&Shift\Add_Shift\AddShift\src\AddShift.asdb=Accelerated Waveform File
+.\..\..\..\Add&Shift\Add_Shift\AddShift\src\AddShift.awc=Accelerated Waveform Configuration
+.\src\TestBench\multiplier_3x3_TB.vhd=VHDL Test Bench
+.\src\TestBench\multiplier_3x3_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=multiplier_3x3_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=

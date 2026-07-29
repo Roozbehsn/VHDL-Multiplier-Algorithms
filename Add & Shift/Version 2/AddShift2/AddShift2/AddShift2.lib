@@ -1,0 +1,36 @@
+timestamp=1785178624646
+
+[~A]
+ModifyID=2
+Version=74
+
+[~MFT]
+0=7|0AddShift2.mgf|5100|0
+1=1|1AddShift2.mgf|2126|0
+3=1|3AddShift2.mgf|1992|0
+
+[multiplierentity]
+A/rtl=A/RTL 21|../src/Main2.vhd|21|1*0
+BinW64/rtl=3*0
+I=0*845
+I/rtl=I/RTL 0*2629
+M=11|2|vef|1785178604817|../src/Main2.vhd|0*271*0x06863e79ddfdf19c87c0144b1b79dcdca0d10879|0*759*0x23b75c12e3e89f2ef000564498faa8c2
+M/rtl=M/RTL 21|2|vef|1785178604819|../src/Main2.vhd|0*1095*0xcd70d381c9b903a80f531b72bd1a750af9d4aaf7|0*2536*0x20116f55b147878295aeff36dce7fc50
+R=../src/Main2.vhd|6
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|bc91797de253e4ea82d6a9d393174d4df9ef0eab3a03f75ec5ef4d7697b08c02f81b588e98cc865b7c27641916824ec3
+Version/rtl=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|9dbb47eebe7da777b751efca131652c5359a00f0546434d1e380f857a802f226
+
+[tb_shift_add_mult]
+A/rtl=A/RTL 21|../src/TestBench/multiplierentity_TB.vhd|11|1*2126
+BinW64/rtl=3*1992
+I=0*3422
+I/rtl=I/RTL 0*5100
+M=11|2|vef|1785178624638|../src/TestBench/multiplierentity_TB.vhd|0*3042*0x8c637fcbe986358c5673afb8df2fa0397de02771|0*3311*0x23b75c12e3e89f2ef000564498faa8c2
+M/rtl=M/RTL 21|2|vef|1785178624640|../src/TestBench/multiplierentity_TB.vhd|0*3673*0xf498b1118e96876e0050d221e2b2cd3f3a5c0c60|0*4982*0x20116f55b147878295aeff36dce7fc50
+R=../src/TestBench/multiplierentity_TB.vhd|5
+Version=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|1fc47194bf26077f1726f16a1b002baf924241aca044843edd5c7f0132dab1871d0f749fe64796bb85e0b2675df50326
+Version/rtl=13.0.375.8320 (Windows64)|00000003789cd3f5370600015b00b0|9dbb47eebe7da777b751efca131652c5367b2c2e58e56ea4311ffbeff65042b7
+
+[~U]
+multiplierentity=MULTIPLIERENTITY 11|0*0|
+tb_shift_add_mult=11|0*2883|

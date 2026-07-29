@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=AddShift2
+[Library]
+AddShift2=.\AddShift2\AddShift2.lib
+[$LibMap$]
+AddShift2=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Main2.vhd=-1
+/..\..\..\..\..\Add&Shift\Version2\AddShift2\AddShift2\src\AddShift2.asdb=-1
+/..\..\..\..\..\Add&Shift\Version2\AddShift2\AddShift2\src\AddShift2.awc=-1
+TestBench/multiplierentity_TB.vhd=-1
+TestBench/multiplierentity_TB_runtest.do=-1
+[Files.Data]
+.\src\Main2.vhd=VHDL Source Code
+.\..\..\..\..\Add&Shift\Version2\AddShift2\AddShift2\src\AddShift2.asdb=Accelerated Waveform File
+.\..\..\..\..\Add&Shift\Version2\AddShift2\AddShift2\src\AddShift2.awc=Accelerated Waveform Configuration
+.\src\TestBench\multiplierentity_TB.vhd=VHDL Test Bench
+.\src\TestBench\multiplierentity_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=tb_shift_add_mult|RTL|0
+ShowHide=ShowTopLevel
+Selected=

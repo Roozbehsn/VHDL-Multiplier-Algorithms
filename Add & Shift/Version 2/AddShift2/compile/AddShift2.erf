@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: D:/Projects/Multiplier/Add & Shift/Version 2/AddShift2/AddShift2/src/TestBench/multiplierentity_TB.vhd" 
+MESSAGE "Compile Entity "tb_shift_add_mult"" 
+MESSAGE "Compile Architecture "RTL" of Entity "tb_shift_add_mult"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  15.0 [ms]" 

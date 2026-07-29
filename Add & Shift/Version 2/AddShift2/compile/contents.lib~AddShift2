@@ -1,0 +1,5 @@
+2
+~E 1 "../src/Main2.vhd" 6 MULTIPLIERENTITY
+~A 1 "../src/Main2.vhd" 21 RTL
+~E 1 "../src/TestBench/multiplierentity_TB.vhd" 5 tb_shift_add_mult
+~A 1 "../src/TestBench/multiplierentity_TB.vhd" 11 RTL

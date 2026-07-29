@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: D:/Projects/Multiplier/Add & Shift/Add_Shift/Add Shift/src/TestBench/multiplier_3x3_TB.vhd" 
+MESSAGE "Compile Entity "multiplier_3x3_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "multiplier_3x3_tb"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [ms]" 

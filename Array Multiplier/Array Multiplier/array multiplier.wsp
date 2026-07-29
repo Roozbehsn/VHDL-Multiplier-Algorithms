@@ -1,0 +1,43 @@
+[CACHESIMPLE|Aldec.SymbolsCommands.7]
+Built-in symbols=0
+Array_Multiplier=0
+[COMPILESTATUS|.\src\Main.vhd]
+FileTimeLow=1241744321
+FileTimeHigh=31268343
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\multiplier4bit_TB.vhd]
+FileTimeLow=1494349038
+FileTimeHigh=31268343
+Status=Compiled
+[COMPILESTATUS|.\src\TestBench\multiplier4bit_TB_runtest.do]
+FileTimeLow=1382039022
+FileTimeHigh=31268343
+Status=Modified
+[COMPILESTATUS|.\..\..\..\ArrayMultiplier\Array_Multiplier\ArrayMultiplier\src\Array-Multiplier.asdb]
+FileTimeLow=2373012412
+FileTimeHigh=31268343
+Status=Modified
+[COMPILESTATUS|.\..\..\..\ArrayMultiplier\Array_Multiplier\ArrayMultiplier\src\Array-Multiplier.awc]
+FileTimeLow=2374117949
+FileTimeHigh=31268343
+Status=Modified
+[General]
+CurrentVersion=103
+[CACHEDOC|Aldec.Project.Generic.7|.\Array Multiplier\Array Multiplier.adf|]
+Path=/multiplier4bit_tb
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Array Multiplier\src/Main.vhd|]
+CurrentLine=0
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+ZoomFactor=0
+Frame=0
+WindowWorkspaceInfo="LAAAAAAAAAABAAAA/////////////////////80AAACZAAAA/wUAAGwCAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAAQAAAA=="
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Array Multiplier\src/TestBench/multiplier4bit_TB.vhd|]
+CurrentLine=60
+CurrentColumn=0
+Bookmarks=-1
+BookmarksLength=3
+ZoomFactor=0
+Frame=0
+WindowWorkspaceInfo="LAAAAAAAAAABAAAA/////////////////////80AAACZAAAA/wUAAGwCAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADIAAAAyAAAAAAAAAAAAAAAyAAAAMgAAAAAAAAAAAAAAAAAAAAAAAAACQAAAAEAAAAAAAAAAQAAAA=="

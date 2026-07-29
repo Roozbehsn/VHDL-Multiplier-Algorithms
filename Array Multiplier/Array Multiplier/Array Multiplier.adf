@@ -1,0 +1,36 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=4
+Current Config=compile
+[Configurations]
+compile=Array_Multiplier
+[Library]
+Array_Multiplier=.\Array_Multiplier\Array_Multiplier.lib
+[$LibMap$]
+Array_Multiplier=.
+Active_lib=
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+[Files]
+/Main.vhd=-1
+/..\..\..\..\ArrayMultiplier\Array_Multiplier\ArrayMultiplier\src\Array-Multiplier.asdb=-1
+/..\..\..\..\ArrayMultiplier\Array_Multiplier\ArrayMultiplier\src\Array-Multiplier.awc=-1
+TestBench/multiplier4bit_TB.vhd=-1
+TestBench/multiplier4bit_TB_runtest.do=-1
+[Files.Data]
+.\src\Main.vhd=VHDL Source Code
+.\..\..\..\ArrayMultiplier\Array_Multiplier\ArrayMultiplier\src\Array-Multiplier.asdb=Accelerated Waveform File
+.\..\..\..\ArrayMultiplier\Array_Multiplier\ArrayMultiplier\src\Array-Multiplier.awc=Accelerated Waveform Configuration
+.\src\TestBench\multiplier4bit_TB.vhd=VHDL Test Bench
+.\src\TestBench\multiplier4bit_TB_runtest.do=Macro
+[Groups]
+TestBench=1
+[HierarchyViewer]
+HierarchyInformation=multiplier4bit_tb|TB_ARCHITECTURE|0
+ShowHide=ShowTopLevel
+Selected=
